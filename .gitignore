@@ -1,0 +1,13 @@
+/.tmp_versions/
+*.mod
+*.o.cmd
+*.ko.cmd
+*.ko
+*.order
+*.mod.c
+*.cmd
+*.o
+
+!.config
+!.gitignore
+
